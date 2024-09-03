@@ -45,7 +45,6 @@
 		9F12AEEF2C81DE0F009687FB = {
 			isa = PBXGroup;
 			children = (
-				9F7030592C85D7A60062D02B /* Views */,
 				9F12AEFA2C81DE0F009687FB /* TravelApp */,
 				9F12AEF92C81DE0F009687FB /* Products */,
 			);
@@ -62,6 +61,7 @@
 		9F12AEFA2C81DE0F009687FB /* TravelApp */ = {
 			isa = PBXGroup;
 			children = (
+				9F7030592C85D7A60062D02B /* Views */,
 				9F12AEFB2C81DE0F009687FB /* TravelAppApp.swift */,
 				9F12AEFF2C81DE11009687FB /* Assets.xcassets */,
 				9F12AF012C81DE11009687FB /* Preview Content */,

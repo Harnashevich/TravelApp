@@ -26,15 +26,15 @@ struct PlaceCard: View {
             // Description
             Text(model.description)
                 .bold()
-                .foregroundStyle(Color(.secondaryLabel))
+                .foregroundStyle(Color.gray)
             
             // Location title
             Text(model.location.title)
-                .foregroundStyle(Color(.secondaryLabel))
+                .foregroundStyle(Color.gray)
             
             // Type
             Text(model.type.rawValue.lowercased())
-                .foregroundStyle(Color(.secondaryLabel))
+                .foregroundStyle(Color.gray)
         }
         .padding()
         .background(Color.white)
