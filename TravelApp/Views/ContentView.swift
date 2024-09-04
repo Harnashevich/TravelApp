@@ -56,7 +56,7 @@ struct ContentView: View {
                         TextField(
                             "",
                             text: $searchTerm,
-                            prompt: Text("Placeholder text")
+                            prompt: Text("Search")
                                 .foregroundStyle(Color.gray)
                         )
                             .padding(12)
