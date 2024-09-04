@@ -6,4 +6,4 @@ TravelApp on iOS.<br />
 
 • SwiftUI <br />
 
-<img width="353" alt="Снимок экрана 2024-09-03 в 12 38 14" src="https://github.com/user-attachments/assets/410f7e78-5432-4b3d-a5c8-559b74227247">
+<img width="349" alt="Снимок экрана 2024-09-04 в 11 19 19" src="https://github.com/user-attachments/assets/e8170d28-b399-4245-9594-540cd5c2770d">
